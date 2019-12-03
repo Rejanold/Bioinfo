@@ -1,0 +1,5 @@
+insert 0 	DNA	TTATATGGGGCA
+insert 1 	RNA	CGAUGCGUUUUAGUGGUUaa
+print 1
+translate 1
+print 1
